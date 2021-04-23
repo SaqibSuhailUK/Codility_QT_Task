@@ -5,6 +5,7 @@ Hi there, My name is Saqib Suhail and i have created this project as a task for 
 ## Usage
 
 Please clone this repo to your local machine
+Works on Mozilla Firefox
 
 ```python
 Navigate to src/test/java/StepDef
